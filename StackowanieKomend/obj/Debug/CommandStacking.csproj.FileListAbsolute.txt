@@ -1,0 +1,7 @@
+C:\Users\Pawel\source\repos\StackowanieKomend\StackowanieKomend\bin\Debug\StackowanieKomend.exe.config
+C:\Users\Pawel\source\repos\StackowanieKomend\StackowanieKomend\bin\Debug\StackowanieKomend.exe
+C:\Users\Pawel\source\repos\StackowanieKomend\StackowanieKomend\bin\Debug\StackowanieKomend.pdb
+C:\Users\Pawel\source\repos\StackowanieKomend\StackowanieKomend\obj\Debug\CommandStacking.csprojAssemblyReference.cache
+C:\Users\Pawel\source\repos\StackowanieKomend\StackowanieKomend\obj\Debug\CommandStacking.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\source\repos\StackowanieKomend\StackowanieKomend\obj\Debug\StackowanieKomend.exe
+C:\Users\Pawel\source\repos\StackowanieKomend\StackowanieKomend\obj\Debug\StackowanieKomend.pdb
